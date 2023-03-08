@@ -143,6 +143,13 @@ $bank_name=$_SESSION['bank'] ;
       if($status==1)
       {
 echo($html);
+      }           
+       else if($status ==2)
+      {
+        echo('
+        <div class="center">
+        <img src="https://t3.ftcdn.net/jpg/03/46/47/46/360_F_346474666_KYRegvqFoETMPh2LAj5xPxfxzcG24ocE.jpg" style="width: 150; height: 150" alt="">
+        <tr> Your Certificate is Rejected </tr> </div>');
       }
       else
       {
