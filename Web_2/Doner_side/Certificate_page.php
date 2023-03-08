@@ -122,14 +122,14 @@ $bank_name=$_SESSION['bank'] ;
          </div>
 
          <div class="person">
-         <?php echo("$name") ?>
+         '.$name.'
          </div>
 
          <div class="reason">
              For Donating Blood to 
              
-         <?php echo("$bank_name") ?>
-             
+        <font style="font-weight:bold;"> '.$bank_name.'
+</font>             
              Blood Bank <br/>
             
          </div>
