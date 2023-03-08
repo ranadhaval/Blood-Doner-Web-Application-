@@ -60,7 +60,7 @@
               <h5 class="card-title" align="left">Doner Side</h5>
               <p class="card-text" align="left">Doner Can Add Their Details, Choose more Abouts that helps blood banks
                 to Choose Blood Doner. </p>
-              <a href="/Web/Web_2/Doner_side/Enterpage.php" class="btn btn-primary">Doner Doner Side</a>
+              <a href="/Web/Web_2/Doner_side/Enterpage.php" class="btn btn-primary">Doner Side</a>
             </div>
           </div>
         </div>
