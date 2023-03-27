@@ -49,9 +49,9 @@
         <br />
       </div>
       <div class="form-group">
-        <label for="exampleInputEmail1">Choose Place for Blood Donation </label>
+        <label for="exampleInputEmail1">Choose Blood Quantity for Donation </label>
         <select class="form-control" name="Blood_Quantity">
-          <option value="select:selected">Select place</option>
+          <option value="select:selected">Select Blood Quantity</option>
           <option value="200">200 ml</option>
           <option value="250">250 ml</option>
           <option value="300">300 ml</option>
